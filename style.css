@@ -1,0 +1,26 @@
+h2{
+    color:rgba(18, 14, 233, 0.884);
+}
+body{
+    background-color: blanchedalmond;
+    color:rgb(219, 20, 20);
+    font-family: Roboto;
+    text-align: center;
+}
+
+
+header{
+
+    border-bottom: 3px solid gray;
+    border-right: 3px solid green;
+    border-left: 3px solid green;
+}
+
+footer{
+   border-top: 3px solid gray;
+   border-right: 3px solid green;
+   border-left: 3px solid green;
+}
+#nome-usuário {
+    font-weight: bold;
+}
